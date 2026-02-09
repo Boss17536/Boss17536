@@ -1,4 +1,4 @@
-# Hello, I'm Boss! 👋
+# Hello! 👋
 
 ### 🚀 About Me
 - 🔭 I’m currently working on exciting software projects.
