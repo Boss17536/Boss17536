@@ -1,5 +1,7 @@
 # Hello! 👋
 
+I'm a software developer passionate about crafting digital experiences and exploring the future of tech.
+
 ### 🚀 About Me
 - 🔭 I’m currently working on exciting software projects.
 - 🌱 I’m always learning new technologies and improving my skills.
