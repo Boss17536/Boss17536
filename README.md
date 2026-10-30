@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Aryan 👋
+# Hi, I'm Aryan 
 ### Automating Businesses & Workflows with AI & n8n
 
 [![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
@@ -17,18 +17,18 @@
 
 </div>
 
-## ⚡ What I Do
+##  What I Do
 
 I build systems that take repetitive, tedious tasks off people's plates so they can focus on what actually moves the needle:
 
-- 🤖 **AI Agents:** Smart agents that can research, reason, call tools, and handle multi-step workflows end-to-end.
-- ⚙️ **n8n Automation:** Connecting business tools into clean, automated pipelines that run 24/7 without breaking.
-- 💬 **Custom AI Bots:** Conversational assistants for WhatsApp, Telegram, and Slack with real memory and database hooks (like [`whatsapp-ai-bot`](https://github.com/Boss17536/whatsapp-ai-bot)).
-- 🔗 **API & App Integrations:** Making stubborn software talk to each other — CRMs, spreadsheets, webhooks, and custom backends.
+-  **AI Agents:** Smart agents that can research, reason, call tools, and handle multi-step workflows end-to-end.
+-  **n8n Automation:** Connecting business tools into clean, automated pipelines that run 24/7 without breaking.
+-  **Custom AI Bots:** Conversational assistants for WhatsApp, Telegram, and Slack with real memory and database hooks (like [`whatsapp-ai-bot`](https://github.com/Boss17536/whatsapp-ai-bot)).
+-  **API & App Integrations:** Making stubborn software talk to each other — CRMs, spreadsheets, webhooks, and custom backends.
 
 ---
 
-## 🛠️ Tools & Tech Stack
+##  Tools & Tech Stack
 
 <table>
   <tr>
