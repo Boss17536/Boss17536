@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Aryan 
-### Automating Businesses & Workflows with AI & n8n
+### Automating Businesses & Workflows with AI
 
 [![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
 [![Python](https://img.shields.io/badge/Python-Agentic_AI-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
